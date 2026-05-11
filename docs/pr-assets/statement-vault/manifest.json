@@ -1,0 +1,25 @@
+{
+  "artifacts": [
+    {
+      "file": "01-account-statements-tab.png",
+      "label": "Account Statements tab",
+      "path": "/Users/shadowbook/.codex/worktrees/statement-vault-screenshots/sure/docs/pr-assets/statement-vault/01-account-statements-tab.png"
+    },
+    {
+      "file": "02-statement-vault-inbox.png",
+      "label": "Statement Vault inbox",
+      "path": "/Users/shadowbook/.codex/worktrees/statement-vault-screenshots/sure/docs/pr-assets/statement-vault/02-statement-vault-inbox.png"
+    },
+    {
+      "file": "03-unmatched-suggestion-detail.png",
+      "label": "Unmatched statement suggestion",
+      "path": "/Users/shadowbook/.codex/worktrees/statement-vault-screenshots/sure/docs/pr-assets/statement-vault/03-unmatched-suggestion-detail.png"
+    },
+    {
+      "file": "04-mismatched-statement-detail.png",
+      "label": "Mismatched statement detail",
+      "path": "/Users/shadowbook/.codex/worktrees/statement-vault-screenshots/sure/docs/pr-assets/statement-vault/04-mismatched-statement-detail.png"
+    }
+  ],
+  "issues": []
+}
