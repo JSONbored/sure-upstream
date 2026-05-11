@@ -1,0 +1,166 @@
+{
+  "artifacts": [
+    {
+      "file": "01-bank-sync-available-brex-card.png",
+      "label": "Bank Sync available Brex card",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/01-bank-sync-available-brex-card.png"
+    },
+    {
+      "file": "02-brex-connect-drawer.png",
+      "label": "Brex connect drawer",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/02-brex-connect-drawer.png"
+    },
+    {
+      "file": "03-bank-sync-connected-overview.png",
+      "label": "Bank Sync connected overview",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/03-bank-sync-connected-overview.png"
+    },
+    {
+      "file": "04-expanded-brex-bank-sync-panel.png",
+      "label": "Expanded Brex Bank Sync panel",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/04-expanded-brex-bank-sync-panel.png"
+    },
+    {
+      "file": "05-edit-brex-connection.png",
+      "label": "Edit Brex connection",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/05-edit-brex-connection.png"
+    },
+    {
+      "file": "06-accounts-index-brex-groups.png",
+      "label": "Accounts index with Brex groups",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/06-accounts-index-brex-groups.png"
+    },
+    {
+      "file": "07-brex-setup-accounts-modal.png",
+      "label": "Brex setup accounts modal",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/07-brex-setup-accounts-modal.png"
+    },
+    {
+      "file": "08-new-account-provider-choice.png",
+      "label": "New account provider choice with named Brex connections",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/08-new-account-provider-choice.png"
+    },
+    {
+      "file": "09-explicit-connection-required.png",
+      "label": "Explicit Brex connection required",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/09-explicit-connection-required.png"
+    },
+    {
+      "file": "10-link-existing-provider-choice.png",
+      "label": "Link existing account provider choice",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/10-link-existing-provider-choice.png"
+    },
+    {
+      "file": "11-link-existing-brex-account.png",
+      "label": "Link existing account to Brex account",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/11-link-existing-brex-account.png"
+    },
+    {
+      "file": "12-brex-setup-direct-page.png",
+      "label": "Brex setup accounts direct page",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/12-brex-setup-direct-page.png"
+    },
+    {
+      "file": "13-mobile-bank-sync-brex-panel.png",
+      "label": "Mobile Brex Bank Sync panel",
+      "path": "/Users/shadowbook/Documents/sure-brex-screenshots-2026-05-11/13-mobile-bank-sync-brex-panel.png"
+    }
+  ],
+  "issues": [
+    {
+      "label": "Mobile Brex Bank Sync panel",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scrollWidth": 390,
+      "missingTranslation": false,
+      "overflowing": [
+        {
+          "tag": "UL",
+          "text": "Back\nAccounts\nBank sync\nPreferences\nAppearance\nProfile Info\nSecurity\nCategories\nTags\nRules\nMerchants\nRecurring\nAI Prompt",
+          "left": -82,
+          "right": 276,
+          "width": 358
+        },
+        {
+          "tag": "LI",
+          "text": "Back",
+          "left": -82,
+          "right": 0,
+          "width": 82
+        },
+        {
+          "tag": "A",
+          "text": "Back",
+          "left": -82,
+          "right": 0,
+          "width": 82
+        },
+        {
+          "tag": "svg",
+          "text": "[object SVGAnimatedString]",
+          "left": -70,
+          "right": -50,
+          "width": 20
+        },
+        {
+          "tag": "path",
+          "text": "[object SVGAnimatedString]",
+          "left": -62,
+          "right": -57,
+          "width": 5
+        },
+        {
+          "tag": "LI",
+          "text": "Appearance",
+          "left": 375,
+          "right": 504,
+          "width": 129
+        },
+        {
+          "tag": "A",
+          "text": "Appearance",
+          "left": 375,
+          "right": 504,
+          "width": 129
+        },
+        {
+          "tag": "svg",
+          "text": "[object SVGAnimatedString]",
+          "left": 387,
+          "right": 407,
+          "width": 20
+        },
+        {
+          "tag": "path",
+          "text": "[object SVGAnimatedString]",
+          "left": 389,
+          "right": 406,
+          "width": 17
+        },
+        {
+          "tag": "LI",
+          "text": "Profile Info",
+          "left": 508,
+          "right": 629,
+          "width": 121
+        },
+        {
+          "tag": "A",
+          "text": "Profile Info",
+          "left": 508,
+          "right": 629,
+          "width": 121
+        },
+        {
+          "tag": "svg",
+          "text": "[object SVGAnimatedString]",
+          "left": 520,
+          "right": 540,
+          "width": 20
+        }
+      ]
+    }
+  ]
+}
